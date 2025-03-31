@@ -24,3 +24,8 @@ readme_content = """
 ```bash
 git clone https://github.com/yourusername/biophilia-app.git
 cd biophilia-app
+2. Install the dependencies
+pip install -r requirements.txt
+3. Launch the app
+streamlit run biophilia_app.py
+
