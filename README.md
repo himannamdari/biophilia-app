@@ -8,17 +8,17 @@ readme_content = """
 
 ## 📋 Features
 
-- 🔢 Calculates a personalized **Biophilia Score** (0–100)
-- 🧠 Simulates data and trains an ML model (Random Forest)
-- 📊 Visual insights into habits like time outdoors, screen time, mood, and more
-- ⚠️ Sends nature-friendly nudges when your score drops
-- 🌤️ Accounts for environmental factors like weather and green space proximity
+- Calculates a personalized **Biophilia Score** (0–100)
+- Simulates data and trains an ML model (Random Forest)
+- Visual insights into habits like time outdoors, screen time, mood, and more
+- Sends nature-friendly nudges when your score drops
+- Accounts for environmental factors like weather and green space proximity
 
 ---
 
-## 🚀 How to Run
-
-### 📍 Locally
+##  How to Run
+Online : click here: https://biophilia-app-yttdzh5rb68jgk3eadhg2x.streamlit.app/
+### Locally
 
 1. Clone this repo:
 ```bash
