@@ -1,5 +1,5 @@
-# Create a README.md file with a clean and appealing design
-readme_content = """
+
+
 # 🌿 BioPulse: Biophilia Score Predictor
 
 “Look deep into nature, and then you will understand everything better.” – Albert Einstein """
