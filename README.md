@@ -2,6 +2,12 @@
 readme_content = """
 # 🌿 BioPulse: Biophilia Score Predictor
 
+“Look deep into nature, and then you will understand everything better.” – Albert Einstein """
+
+The concept of biophilia refers to the human tendency to seek connection with nature and life. This app helps quantify that connection in a modern, tech-enhanced lifestyle.
+
+
+
 **BioPulse** is a data-driven Streamlit app that estimates your **Biophilia Score**—a reflection of how connected you are to nature—based on your daily habits and environment.
 
 ---
